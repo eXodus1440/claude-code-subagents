@@ -1,7 +1,7 @@
 {
   "$schema": "https://buildwithclaude.com/schema/registry.json",
   "version": "1.0.0",
-  "lastUpdated": "2025-08-08T00:11:16.408Z",
+  "lastUpdated": "2025-08-08T00:13:38.960Z",
   "subagents": [
     {
       "name": "academic-research-synthesizer",
